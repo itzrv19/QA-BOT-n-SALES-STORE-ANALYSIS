@@ -2,7 +2,7 @@
 
 > Store sales forecasting with Random Forest (MAPE 6.54%) and a TF-IDF-based Policy Q&A bot — built using Python, scikit-learn, and Google Colab without any paid APIs.
 
-**Name:** RAVINDRA KUMAR NAYAK &nbsp;|&nbsp; **Roll No.:** 2201MC30
+**NAME:** RAVINDRA KUMAR NAYAK &nbsp;
 
 ---
 
@@ -11,10 +11,7 @@
 ```
 ├── Assignment1_Store_Sales_Analysis.ipynb   # Sales EDA, forecasting model & insights
 ├── Assignment2_Policy_QA_Bot.ipynb          # Policy Q&A bot using TF-IDF
-├── sales_data.csv                           # Dataset for Assignment 1
-├── leave_policy.txt                         # Leave policy document
-├── it_policy.txt                            # IT policy document
-├── travel_policy.txt                        # Travel policy document
+├── SalesData_Policy                         # Dataset for Assignment 1 ; # Travel policy document ; # IT policy document ; # Leave policy document
 └── README.md
 ```
 
